@@ -69,7 +69,7 @@ module.exports = {
           extend: "dark",
           colors: {
             themePink: {
-              DEFAULT: "FB729A", // Adjust this as needed for dark mode
+              DEFAULT: "#FB729A", // Adjust this as needed for dark mode
               flat: "rgba(251, 114, 154, 0.2)",
               80: "rgba(251, 114, 154, 0.8)",
               foreground: "#ffffff",
