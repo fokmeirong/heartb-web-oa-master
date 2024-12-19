@@ -322,6 +322,7 @@ export default function ChapterDisplay({ chapters = [], onChaptersUpdate }: Chap
             <h2 className="text-xl font-bold break-words">{currentChapter.title}</h2>
           </div>
           <div
+            role="button"
             ref={contentRef}
             contentEditable="true"
             suppressContentEditableWarning
