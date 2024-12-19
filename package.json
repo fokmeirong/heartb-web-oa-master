@@ -24,6 +24,7 @@
 		"@react-aria/ssr": "3.9.4",
 		"@react-aria/visually-hidden": "3.8.12",
 		"clsx": "2.1.1",
+		"core-util-is": "^1.0.3",
 		"framer-motion": "^11.15.0",
 		"intl-messageformat": "^10.5.0",
 		"next": "14.2.4",
